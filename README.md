@@ -32,7 +32,7 @@ Data Analyst with expertise in data analysis and reporting, query optimization, 
 
 📌 **Projects**
 
-Welcome to my portfolio, where I showcase my [projects]([https://github.com/jessicasgsoares?tab=repositories]).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jessicasgsoares?tab=repositories).
 
 
 💻 **Tools**
